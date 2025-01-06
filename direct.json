@@ -2,8 +2,15 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "cn.bing.com"
+      ]
+    },
+    {
       "domain_suffix": [
-        "sublimewj.top"
+        "kkgithub.com"
+        "github.site"
+        "github.store"
       ]
     }
   ]
